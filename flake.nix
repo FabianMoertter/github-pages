@@ -18,6 +18,9 @@
         packages = with pkgs; [
           hugo
         ];
+	shellHook = ''
+	  echo 'Flake for Hugo activated'
+	'';
       };
     };
 }
