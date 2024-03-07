@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>My New Hugo Site</title>
-        <link>http://localhost:1313/</link>
-        <description>Recent content on My New Hugo Site</description>
+        <title>Pages on My New Hugo Site</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 03 Mar 2024 22:18:27 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 03 Mar 2024 22:18:27 +0100</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Fabian Moertter</title>
         <link>http://localhost:1313/page/about/about/</link>
         <pubDate>Sun, 03 Mar 2024 22:18:27 +0100</pubDate>
         
         <guid>http://localhost:1313/page/about/about/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>Welcome</title>
-        <link>http://localhost:1313/post/welcome/welcome/</link>
-        <pubDate>Sun, 03 Mar 2024 21:15:24 +0100</pubDate>
-        
-        <guid>http://localhost:1313/post/welcome/welcome/</guid>
-        <description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;
-&lt;p&gt;Welcome to my new Github Page. This is just the first post of many.&lt;/p&gt;
-</description>
         </item>
         <item>
         <title>Resume</title>
